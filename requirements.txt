@@ -1,9 +1,0 @@
-flask
-pandas
-scikit-learn
-joblib
-pyarrow
-python-dateutil
-openpyxl
-pytest
-numpy
