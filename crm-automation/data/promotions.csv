@@ -1,0 +1,2 @@
+promotion_id,type,product_id,threshold,start_date,end_date
+P001,discount,101,500,2025-10-01,2025-10-15
